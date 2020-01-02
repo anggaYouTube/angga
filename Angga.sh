@@ -58,7 +58,7 @@ read -p " masukkan pilihan anda ton : " pil ;
 if [ $pil = 1 ]
 then
 clear
-figlet -f slant "X.Rinz"|lolcat
+figlet -f slant "AnggaYT"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/mbf
 cd mbf
@@ -69,7 +69,7 @@ sleep 2
 if [ $pil = 2 ]
 then
 clear
-figlet -f slant "X.Rinz"|lolcat
+figlet -f slant "AnggaYT"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/autolike
 cd autolike
@@ -79,7 +79,7 @@ fi
 if [ $pil =  3 ]
 then
  clear
- figlet -f slant "X.Rinz"|lolcat
+ figlet -f slant "AnggaYT"|lolcat
  sleep1
 git clone https://github.com/kereh/Findip
 cd Findip
@@ -96,7 +96,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
-figlet -f slant "X.Rinz"|lolcat
+figlet -f slant "AnggaYT"|lolcat
 sleep 1
 git clone https://github.com/thelinuxchoice/shellphish.git
 cd shellphish
@@ -106,7 +106,7 @@ fi
 if [ $pil = 6 ]
 then
 clear
-figlet -f slant "X.Rinz"|lolcat
+figlet -f slant "AnggaYT"|lolcat
 sleep 1
 pkg install python2
     pip2 install requests
@@ -118,7 +118,7 @@ fi
 if [ $pil = 7 ]
 then
 clear
-figlet -f slant "X.Rinz"|lolcat
+figlet -f slant "AnggaYT"|lolcat
 sleep 1
 git clone https://github.com/4L13199/LITESPAM
     cd LITESPAM
